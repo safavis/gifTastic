@@ -1,0 +1,23 @@
+.container{
+height: 100vh;
+width: 100vw;
+}
+.button_header{
+    height: 30vh;
+    width: 100vw;
+}
+.search_picture{
+    height: 70vh;
+    width: 100vw;
+}
+.button_animal{
+    display: inline;
+    background-color: teal;
+    height: 50px;
+    width: 200px;
+}
+.gif_div_class{
+    display: inline;
+    height: 500px;
+    width: 100px;
+}
